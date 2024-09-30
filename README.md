@@ -5,9 +5,9 @@ requirements.txt
 
 # Training
 Train a model:
-```
-Dataset has to be downloaded data and has to be passed in the below argument.
 
+Dataset has to be downloaded data and has to be passed in the below argument.
+```
 parser.add_argument("--mvtec-ad", type=str, default='', help="MvTec-AD dataset path")
 ``` 
 python main.py train --epochs 400
