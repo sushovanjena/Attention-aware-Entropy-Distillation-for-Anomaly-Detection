@@ -13,7 +13,7 @@ parser.add_argument("--mvtec-ad", type=str, default='', help="MvTec-AD dataset p
 python main.py train --epochs 400
 ```
 After running this command, a directory `snapshots/` should be created, inside which checkpoint will be saved.
-```
+
 # Testing
 Evaluate a model:
 ```
