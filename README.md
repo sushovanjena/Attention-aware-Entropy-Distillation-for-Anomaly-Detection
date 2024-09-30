@@ -3,7 +3,7 @@
 # Environment
 requirements.txt
 
-# Training in Pytorch
+# Training
 Train a model:
 ```
 Dataset has to be downloaded data and has to be passed in the below argument.
