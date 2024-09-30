@@ -1,4 +1,5 @@
-# Attention-aware-Entropy-Distillation-for-Anomaly-Detection
+# Attend, Distill, Detect: Attention-aware-Entropy-Distillation-for-Anomaly-Detection
+# Accepted in International Conference on Pattern Recognition 2024 (h5 index- 56)
 
 # Environment
 requirements.txt
